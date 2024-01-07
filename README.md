@@ -3,6 +3,8 @@
 Description:
 This GitHub repository hosts a comprehensive machine learning project focused on the analysis and prediction of rainfall patterns in India from the year 1901 to 2017. The dataset utilized in this project encompasses meteorological data across various Indian subdivisions, providing a rich source of information for understanding the temporal and spatial dynamics of rainfall in the region.
 
+Dataset: https://data.gov.in/resource/sub-divisional-monthly-rainfall-1901-2017
+
 Key Features:
 1. Preprocessing: The repository includes robust preprocessing techniques to handle missing values, outliers, and feature selection, ensuring the dataset is well-prepared for machine learning modeling.
 
